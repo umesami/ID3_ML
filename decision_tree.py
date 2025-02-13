@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # AUTHOR: James Salac
-# FILENAME: title of the source file
+# FILENAME: decision_tree.py
 # SPECIFICATION: Outputs a decision tree using ID3 Algorithm
 # FOR: CS 4210- Assignment #1
 # TIME SPENT: 8 Hours
